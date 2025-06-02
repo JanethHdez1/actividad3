@@ -1,2 +1,3 @@
 Documento para pruebas
 Línea 2 de este archivo
+Línea 3 agregado por user1
