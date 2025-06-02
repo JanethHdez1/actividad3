@@ -1,3 +1,4 @@
 Documento para pruebas
 Línea 2 de este archivo
 Línea agregada por user2
+Hola Mundo por user2
