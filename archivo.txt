@@ -1,1 +1,2 @@
 Documento para pruebas
+Línea 2 de este archivo
