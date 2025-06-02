@@ -1,3 +1,7 @@
 Documento para pruebas
 Línea 2 de este archivo
+Línea agregada por user2
+Hola Mundo por user2 - Esto es texto agregado por user2
+Me gusta el color morado :)
 Línea 3 agregado por user1 - modificación de tercer línea por user1
+
